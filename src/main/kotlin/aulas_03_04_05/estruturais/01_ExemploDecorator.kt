@@ -1,4 +1,4 @@
-package aula_04.estruturais
+package aulas_03_04_05.estruturais
 
 interface Notifier {
     fun send(message: String)

@@ -1,6 +1,6 @@
-package aula_04.criacionais
+package aulas_03_04_05.criacionais
 
-import aula_04.criacionais.ConfirmDialogType.*
+import aulas_03_04_05.criacionais.ConfirmDialogType.*
 
 open class Dialog(
     val icon: String,

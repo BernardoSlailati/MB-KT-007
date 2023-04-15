@@ -1,4 +1,4 @@
-package aula_04.criacionais
+package aulas_03_04_05.criacionais
 
 interface Shape: ShapePrototype {
     val x: Int

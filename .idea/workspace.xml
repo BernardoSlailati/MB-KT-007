@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0713c873-954b-458a-8405-f20527f3e431" name="Changes" comment="Init">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/aulas_04_05_06/comportamentais/01_ExemploIterator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/aulas_04_05_06/comportamentais/02_ExemploState.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/aulas_04_05_06/estruturais/02_ExemploFacade.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/aulas_03_04_05/criacionais/01_ExemploFactoryMethod.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/aulas_04_05_06/criacionais/01_ExemploFactoryMethod.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/aulas_03_04_05/criacionais/02_ExemploAbstractFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/aulas_04_05_06/criacionais/02_ExemploAbstractFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/aulas_03_04_05/criacionais/03_ExemploSingleton.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/aulas_04_05_06/criacionais/03_ExemploSingleton.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/aulas_03_04_05/criacionais/04_ExemploBuilder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/aulas_04_05_06/criacionais/04_ExemploBuilder.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/aulas_03_04_05/criacionais/05_ExemploPrototype.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/aulas_04_05_06/criacionais/05_ExemploPrototype.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/aulas_03_04_05/estruturais/01_ExemploDecorator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/aulas_04_05_06/estruturais/01_ExemploDecorator.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +32,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../../../Program Files/Java/jdk-19/lib/src.zip!/java.base/java/util/TreeMap.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.8.20/kotlin-stdlib-common-1.8.20-sources.jar!/kotlin/collections/Collections.kt" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.8.20/kotlin-stdlib-1.8.20-sources.jar!/kotlin/Iterator.kt" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -32,51 +46,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Usuario\Desktop\MB-KT-007\Exemplos em Aula\MB-KT-007\src\main\kotlin\aula_04\criacionais" />
       <recent name="C:\Users\Usuario\Desktop\MB-KT-007\Exemplos em Aula\MB-KT-007\src\main\kotlin\aula_04" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._01_ExemploDecoratorKt">
+  <component name="RunManager" selected="Kotlin._02_ExemploStateKt">
     <configuration name="_01_ExemploDecoratorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_04.estruturais._01_ExemploDecoratorKt" />
+      <option name="MAIN_CLASS_NAME" value="aulas_04_05_06.estruturais._01_ExemploDecoratorKt" />
       <module name="MB-KT-007" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_01_ExemploFactoryMethodKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_04.criacionais._01_ExemploFactoryMethodKt" />
+    <configuration name="_01_ExemploIteratorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulas_04_05_06.comportamentais._01_ExemploIteratorKt" />
       <module name="MB-KT-007" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_02_ExemploAbstractFactoryKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_04.criacionais._02_ExemploAbstractFactoryKt" />
+    <configuration name="_02_ExemploStateKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulas_04_05_06.comportamentais._02_ExemploStateKt" />
       <module name="MB-KT-007" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="_04_ExemploBuilderKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_04.criacionais._04_ExemploBuilderKt" />
+      <option name="MAIN_CLASS_NAME" value="aulas_04_05_06.criacionais._04_ExemploBuilderKt" />
       <module name="MB-KT-007" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="_05_ExemploPrototypeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aula_04.criacionais._05_ExemploPrototypeKt" />
+      <option name="MAIN_CLASS_NAME" value="aulas_04_05_06.criacionais._05_ExemploPrototypeKt" />
       <module name="MB-KT-007" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._02_ExemploStateKt" />
+        <item itemvalue="Kotlin._01_ExemploIteratorKt" />
         <item itemvalue="Kotlin._01_ExemploDecoratorKt" />
         <item itemvalue="Kotlin._05_ExemploPrototypeKt" />
         <item itemvalue="Kotlin._04_ExemploBuilderKt" />
-        <item itemvalue="Kotlin._02_ExemploAbstractFactoryKt" />
-        <item itemvalue="Kotlin._01_ExemploFactoryMethodKt" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681521275957</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Init">
+      <created>1681521697485</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681521697485</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -1,4 +1,4 @@
-package aulas_03_04_05.criacionais
+package aulas_04_05_06.criacionais
 
 data class House(
     val walls: Int,
